@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3934482668",
+    "hash" : "668672744",
     "id" : "2FAB3BB4",
-    "lastKnownWriteTime" : 1588668049,
-    "last_content_update" : 1588668049,
+    "lastKnownWriteTime" : 1588669304,
+    "last_content_update" : 1588669304422,
     "path" : "~/Programming/corpoaccidentdash/dev/02_dev.R",
     "project_path" : "dev/02_dev.R",
     "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "5"
     },
     "read_only" : false,
     "read_only_alternatives" : [

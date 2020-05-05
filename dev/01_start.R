@@ -15,12 +15,12 @@
 ## Add meta data about your application
 golem::fill_desc(
   pkg_name = "corpoaccidentdash", # The Name of the package containing the App 
-  pkg_title = "PKG_TITLE", # The Title of the package containing the App 
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App 
-  author_first_name = "AUTHOR_FIRST", # Your First Name
-  author_last_name = "AUTHOR_LAST", # Your Last Name
-  author_email = "AUTHOR@MAIL.COM", # Your Email
-  repo_url = NULL # The URL of the GitHub Repo (optional) 
+  pkg_title = "A Dashbord of traffic accidents involving injuries in France", # The Title of the package containing the App 
+  pkg_description = "This package provides a dashbord of traffic accidents involving injuries in France.", # The Description of the package containing the App 
+  author_first_name = "N'Gouro dit Issa", # Your First Name
+  author_last_name = "Sanogo", # Your Last Name
+  author_email = "ngsanogo@gmail.com", # Your Email
+  repo_url = "https://github.com/ngsanogo/corpoaccidentdash" # The URL of the GitHub Repo (optional) 
 )     
 
 ## Set {golem} options ----

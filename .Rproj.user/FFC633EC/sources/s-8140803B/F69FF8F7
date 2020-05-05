@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588668052127.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "924379530",
+    "id" : "F69FF8F7",
+    "lastKnownWriteTime" : 1588668049,
+    "last_content_update" : 1588668049,
+    "path" : "~/Programming/corpoaccidentdash/dev/01_start.R",
+    "project_path" : "dev/01_start.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

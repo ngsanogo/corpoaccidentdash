@@ -13,22 +13,21 @@ MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/
 commit](https://img.shields.io/github/last-commit/ngsanogo/corpoaccidentdash)](https://github.com/ngsanogo/corpoaccidentdash/commit/master)
 <!-- badges: end -->
 
-The goal of corpoaccidentdash is to …
+This accident dashboard provides an overview of traffic accidents
+involving injuries in France from 2005 to 2018. This dashboard is built
+with R using the package `golem` and can easily reproduce by others.
+
+The data behind this dashboard can be found in the [following
+repository](https://github.com/ngsanogo/corpoaccident).
 
 ## Installation
 
-You can install the released version of corpoaccidentdash from
-[CRAN](https://CRAN.R-project.org) with:
+You can install corpoaccidentdash from [GitHub](https://github.com/)
+with:
 
 ``` r
-install.packages("corpoaccidentdash")
-```
-
-And the development version from [GitHub](https://github.com/) with:
-
-``` r
-# install.packages("devtools")
-devtools::install_github("ngsanogo/corpoaccidentdash")
+# install.packages("remotes")
+remotes::install_github("ngsanogo/corpoaccidentdash")
 ```
 
 ## Example
@@ -38,6 +37,7 @@ This is a basic example which shows you how to solve a common problem:
 ``` r
 library(corpoaccidentdash)
 ## basic example code
+run_app()
 ```
 
 ## Code of Conduct

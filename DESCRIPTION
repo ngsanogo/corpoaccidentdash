@@ -1,12 +1,8 @@
 Package: corpoaccidentdash
-Title: An Amazing Shiny App
+Title: A Dashbord of traffic accidents involving injuries in France
 Version: 0.0.0.9000
-Authors@R: 
-    person(given = "firstname",
-           family = "lastname",
-           role = c("aut", "cre"),
-           email = "your@email.com")
-Description: What the package does (one paragraph).
+Authors@R: person("N'Gouro dit Issa", 'Sanogo', email = 'ngsanogo@gmail.com', role = c('cre', 'aut'))
+Description: This dashboard provides an overview of traffic accidents involving injuries in France.
 License: MIT + file LICENSE
 Imports: 
     config,
@@ -17,9 +13,14 @@ Imports:
     DT,
     glue,
     htmltools,
-    corpoaccident
+    corpoaccident,
+    shinydashboard,
+    shinydashboardPlus,
+    dplyr
 Encoding: UTF-8
 LazyData: true
-RoxygenNote: 6.1.1
+RoxygenNote: 7.1.1
 Suggests: 
     testthat
+URL: https://github.com/ngsanogo/corpoaccidentdash
+BugReports: https://github.com/ngsanogo/corpoaccidentdash/issues

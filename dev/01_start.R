@@ -16,7 +16,7 @@
 golem::fill_desc(
   pkg_name = "corpoaccidentdash", # The Name of the package containing the App 
   pkg_title = "A Dashbord of traffic accidents involving injuries in France", # The Title of the package containing the App 
-  pkg_description = "This package provides a dashbord of traffic accidents involving injuries in France.", # The Description of the package containing the App 
+  pkg_description = "This dashboard provides an overview of traffic accidents involving injuries in France.", # The Description of the package containing the App 
   author_first_name = "N'Gouro dit Issa", # Your First Name
   author_last_name = "Sanogo", # Your Last Name
   author_email = "ngsanogo@gmail.com", # Your Email

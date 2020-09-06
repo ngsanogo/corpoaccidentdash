@@ -2,6 +2,7 @@
 
 export(run_app)
 import(shiny)
+import(shinydashboard)
 importFrom(config,get)
 importFrom(golem,activate_js)
 importFrom(golem,add_resource_path)
